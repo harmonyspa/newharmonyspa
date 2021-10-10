@@ -1,0 +1,21 @@
+baseURL = "http://harmonyspa.com.br/"
+languageCode = "en-us"
+title = "Harmony Spa"
+
+# Novela settings
+theme = "github.com/forestryio/hugo-theme-novela"
+
+paginate = 6
+
+[social]
+twitter= "https://twitter.com/harmonyspa9"
+github= "https://github.com/harmonyspatech/newharmonyspa"
+linkedin= "#"
+instagram = "#"
+dribbble = "#"
+youtube = "#"
+
+[taxonomies]
+author = "authors"
+
+
